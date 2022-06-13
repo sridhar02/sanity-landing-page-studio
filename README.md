@@ -12,7 +12,10 @@ Basic sanity studio setup
     Email: katta7991@gmail.com
     password: cPZunIjXqjZ7lZT
 
-- Screen cast link to the webhook 
+- Screen cast link to the webhook:
+
+    In this video whenever you update a document in sanity studio it will automatically send a notification in the discord channel through the discord webhook link
+
     https://www.loom.com/share/d07f5e644d4d4f38872f454d6f43dd5e
     
 
