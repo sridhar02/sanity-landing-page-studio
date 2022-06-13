@@ -1,9 +1,64 @@
-# Sanity Clean Content Studio
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+# Sanity studio for Nextjs project:
 
-Now you can do the following things:
+Basic sanity studio setup 
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+## Demo
+
+ Backend studio deployment Link - https://sanity-studio-landingpage.netlify.app/
+
+- For Deployed Backend studio,
+    you can also log in using these credentials: 
+    Email: katta7991@gmail.com
+    password: cPZunIjXqjZ7lZT
+
+- Screen cast link to the webhook 
+    https://www.loom.com/share/d07f5e644d4d4f38872f454d6f43dd5e
+    
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/sridhar02/sanity-landing-page-studio
+```
+
+Go to the project directory
+
+```bash
+  cd sanity-landing-page-studio
+```
+
+Install dependencies
+
+```bash
+  yarn
+```
+
+Start the server
+
+```bash
+  sanity start
+```
+
+
+## Screenshots
+
+![App Screenshot](https://res.cloudinary.com/dfzxo5erv/image/upload/v1655132932/Screenshot_kia6lh.png)
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  yarn build or sanity build
+```
+
+
+## Authors
+
+- [sridhar02](https://www.github.com/sridhar02)
+
